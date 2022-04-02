@@ -6,7 +6,10 @@ package cuentas;
  */
 public class CCuenta {
 
-
+/** Atributos de la clase cuenta
+     *
+     * 
+     */
     private String nombre;
     private String cuenta;
     private double saldo;
